@@ -1,3 +1,1 @@
-## Despre site
-
-[![Zidul demnitatii][product-screenshot]](http://www.ziduldemnitatii.co)
+![plot](./images/ziduldemnitatii.jpg)
