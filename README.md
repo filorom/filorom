@@ -1,1 +1,1 @@
-![plot](./images/ziduldemnitatii.jpg)
+![screenshot](./images/ziduldemnitatii.jpg)
